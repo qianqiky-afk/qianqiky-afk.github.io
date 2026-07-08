@@ -85,7 +85,7 @@ const products = [
     id: "nebula-bed",
     price: 168,
     symbol: "symbol-bed",
-    image: "pic/c1c6fd4735ff67fcd6b119a39050a6e0.jpg",
+    image: "c1c6fd4735ff67fcd6b119a39050a6e0.jpg",
     bg: "linear-gradient(135deg, #fbe5ed, #fff2d1)",
     zh: {
       name: "星云猫窝",
@@ -100,7 +100,7 @@ const products = [
     id: "moon-bowl",
     price: 89,
     symbol: "symbol-bowl",
-    image: "pic/2acf9968b04054ea045c0182b79a2968.jpg",
+    image: "2acf9968b04054ea045c0182b79a2968.jpg",
     bg: "linear-gradient(135deg, #dff3ec, #edf3ff)",
     zh: {
       name: "月光食碗",
@@ -115,7 +115,7 @@ const products = [
     id: "stardust-bag",
     price: 126,
     symbol: "symbol-bag",
-    image: "pic/080bb9c0da472d1f5e5d81885f4c5511.jpg",
+    image: "080bb9c0da472d1f5e5d81885f4c5511.jpg",
     bg: "linear-gradient(135deg, #fff0d0, #f7e5d7)",
     zh: {
       name: "星尘帆布袋",
@@ -130,7 +130,7 @@ const products = [
     id: "orbit-toy",
     price: 59,
     symbol: "symbol-toy",
-    image: "pic/9abd4f13dfc215763b8f20ece0cf58d4.jpg",
+    image: "9abd4f13dfc215763b8f20ece0cf58d4.jpg",
     bg: "linear-gradient(135deg, #e6effd, #f9d8e2)",
     zh: {
       name: "轨道逗猫棒",
