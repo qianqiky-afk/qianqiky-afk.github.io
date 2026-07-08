@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 620" role="img" aria-labelledby="title desc">
+  <title id="title">Alien Cat brand illustration</title>
+  <desc id="desc">A cute alien cat floating in a soft colorful space scene with cozy product shapes.</desc>
+  <defs>
+    <linearGradient id="planet" x1="110" x2="608" y1="88" y2="536" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFE5A7"/>
+      <stop offset=".42" stop-color="#F8B8C9"/>
+      <stop offset="1" stop-color="#A8C7E9"/>
+    </linearGradient>
+    <linearGradient id="ship" x1="182" x2="538" y1="405" y2="550" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#9FD4C3"/>
+      <stop offset="1" stop-color="#6CAFA7"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#4B3A34" flood-opacity=".16"/>
+    </filter>
+  </defs>
+  <rect width="720" height="620" fill="none"/>
+  <circle cx="360" cy="307" r="242" fill="url(#planet)" opacity=".32"/>
+  <circle cx="132" cy="132" r="16" fill="#FFD274"/>
+  <circle cx="612" cy="160" r="12" fill="#CF6F8B"/>
+  <circle cx="595" cy="430" r="18" fill="#9FD4C3"/>
+  <circle cx="154" cy="472" r="11" fill="#A8C7E9"/>
+  <path d="M117 250c28-33 69-44 123-33" fill="none" stroke="#CF6F8B" stroke-width="15" stroke-linecap="round"/>
+  <path d="M500 110c34 14 58 39 71 75" fill="none" stroke="#9FD4C3" stroke-width="15" stroke-linecap="round"/>
+  <g filter="url(#softShadow)">
+    <path d="M360 482c-112 0-202-37-202-82s90-82 202-82 202 37 202 82-90 82-202 82Z" fill="url(#ship)" stroke="#3C5F5B" stroke-width="8"/>
+    <path d="M207 393c23 27 82 47 153 47s130-20 153-47c-23-27-82-47-153-47s-130 20-153 47Z" fill="#EFFFFA" opacity=".64"/>
+    <path d="M264 395c42 16 150 16 192 0" fill="none" stroke="#3C5F5B" stroke-width="8" stroke-linecap="round" opacity=".42"/>
+  </g>
+  <g filter="url(#softShadow)">
+    <path d="M238 325c0-83 54-151 122-151s122 68 122 151c0 73-49 119-122 119s-122-46-122-119Z" fill="#FFF8EF" stroke="#3B3330" stroke-width="8"/>
+    <path d="M261 207 218 135c-7-12 6-25 18-18l74 42Z" fill="#FFF8EF" stroke="#3B3330" stroke-width="8" stroke-linejoin="round"/>
+    <path d="m459 207 43-72c7-12-6-25-18-18l-74 42Z" fill="#FFF8EF" stroke="#3B3330" stroke-width="8" stroke-linejoin="round"/>
+    <path d="m262 171-22-34 39 21Z" fill="#F8B8C9"/>
+    <path d="m458 171 22-34-39 21Z" fill="#F8B8C9"/>
+    <ellipse cx="316" cy="298" rx="24" ry="29" fill="#29313A"/>
+    <ellipse cx="404" cy="298" rx="24" ry="29" fill="#29313A"/>
+    <circle cx="324" cy="288" r="7" fill="#fff"/>
+    <circle cx="412" cy="288" r="7" fill="#fff"/>
+    <path d="M348 336c7 8 17 8 24 0" fill="none" stroke="#29313A" stroke-width="7" stroke-linecap="round"/>
+    <path d="M360 330v17" stroke="#29313A" stroke-width="7" stroke-linecap="round"/>
+    <path d="M274 327c-24-8-45-7-62 2" stroke="#3B3330" stroke-width="6" stroke-linecap="round"/>
+    <path d="M274 352c-25 3-45 11-60 24" stroke="#3B3330" stroke-width="6" stroke-linecap="round"/>
+    <path d="M446 327c24-8 45-7 62 2" stroke="#3B3330" stroke-width="6" stroke-linecap="round"/>
+    <path d="M446 352c25 3 45 11 60 24" stroke="#3B3330" stroke-width="6" stroke-linecap="round"/>
+    <path d="M349 189c-8-31-22-55-44-74" fill="none" stroke="#3B3330" stroke-width="7" stroke-linecap="round"/>
+    <path d="M371 189c8-31 22-55 44-74" fill="none" stroke="#3B3330" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="297" cy="109" r="13" fill="#FFD274" stroke="#3B3330" stroke-width="6"/>
+    <circle cx="423" cy="109" r="13" fill="#9FD4C3" stroke="#3B3330" stroke-width="6"/>
+  </g>
+  <g>
+    <path d="M127 350c-19-20-18-50 2-68s51-15 68 5c19 21 17 49-4 68-21 18-48 15-66-5Z" fill="#FFE5A7" stroke="#634E36" stroke-width="7"/>
+    <path d="M142 308c15 4 27 14 36 30" stroke="#634E36" stroke-width="6" stroke-linecap="round"/>
+    <path d="M589 337c17-18 16-45-3-61-18-16-46-13-62 5-17 19-15 44 4 61 19 16 44 13 61-5Z" fill="#F8B8C9" stroke="#664557" stroke-width="7"/>
+    <path d="M573 300c-14 4-25 13-33 28" stroke="#664557" stroke-width="6" stroke-linecap="round"/>
+  </g>
+</svg>
